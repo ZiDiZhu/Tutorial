@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-public class Driver {
+public class StandardDeviation {
     public static void main(String[] args){
         Scanner input=new Scanner(System.in);
         String line; //user input
